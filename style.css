@@ -46,3 +46,25 @@ body{
     font-size: 12px;
     letter-spacing: 5px;
 }
+
+.bg-1{
+    background-color: turquoise;
+}
+
+.bg-2{
+    background-color: orange;
+}
+
+.bg-3{
+    background-color: greenyellow;
+}
+
+.container-fluid{
+    margin-top: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.container-fluid h3{
+    padding: 20px;
+}
